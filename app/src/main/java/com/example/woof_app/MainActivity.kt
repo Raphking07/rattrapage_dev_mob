@@ -119,25 +119,25 @@ val petProfiles = listOf(
     PetProfile(
         name = "Frankie",
         age = 2,
-        about = "Unknown",
+        about = "",
         imageResource = R.drawable.frankie
     ),
     PetProfile(
         name = "Nox",
         age = 8,
-        about = "Unknown",
+        about = "",
         imageResource = R.drawable.nox
     ),
     PetProfile(
         name = "Faye",
         age = 8,
-        about = "Unknown",
+        about = "",
         imageResource = R.drawable.faye
     ),
     PetProfile(
         name = "Bella",
         age = 14,
-        about = "Unknown",
+        about = "",
         imageResource = R.drawable.bella
     )
 )
